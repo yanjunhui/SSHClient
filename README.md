@@ -375,7 +375,3 @@ SSH 连接配置，包含所有连接参数。
 1. 查看 [常见问题](FAQ.md)
 2. 搜索现有的 [Issues](https://github.com/your-username/SSHClient/issues)
 3. 创建新的 Issue 并提供详细信息
-
----
-
-**注意**: 这是一个演示框架，模拟了 SSH 协议的实现。在生产环境中使用时，建议集成成熟的 SSH 库（如 libssh2）来处理真实的 SSH 协议通信。 
